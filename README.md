@@ -4,7 +4,7 @@ ChatGPT said:  This project analyzes Spotify listening history to visualize tren
 # Project Objective 
 The objective of this project is to analyze Spotify listening history to gain insights into user listening behavior over time. This includes identifying the most played albums, artists, and tracks, as well as understanding how listening patterns vary across years, weekdays,weekends,Listening Hours ,Average Listening Time(min) vs Track Frequency ,. The analysis helps in visualizing musical preferences, trends, with Spotify.
 
-<a href="">Dataset Used</a>
+<a href="https://github.com/DeepakfromSIT/Spotify-Data-Analysis/blob/main/spotify_history.xlsx">Dataset Used</a>
 
 # Business Question / Key Performance Indicator(KPIs)
 Key Business Questions:
@@ -26,6 +26,9 @@ Key Performance Indicators (KPIs):
 * Weekday vs. Weekend Listening Ratio.
 * Average Listening Time(min) vs Track Frequency
 
+<img width="1152" height="797" alt="Screenshot 2025-10-08 080240" src="https://github.com/user-attachments/assets/27acf253-6e7d-4509-830e-a378f91566bb" />
+
+
 # Process
 
 <h4>Data Collection:</h4>Extracted Spotify streaming data (via Spotify API or exported user data).
@@ -43,6 +46,7 @@ Displayed top 5 most-played albums, artists, and tracks.
 <h4>Insights Extraction:</h4>
 Identified patterns, peaks, and declines in listening activity.
 
+<h3>Dashboard Interaction:</h3><a href="https://github.com/DeepakfromSIT/Spotify-Data-Analysis/blob/main/Spotify.pbix">View Dashboard</a>
 
 # Final Conclusion
 

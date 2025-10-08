@@ -46,7 +46,7 @@ Displayed top 5 most-played albums, artists, and tracks.
 <h4>Insights Extraction:</h4>
 Identified patterns, peaks, and declines in listening activity.
 
-<h3>Dashboard Interaction:</h3><a href="https://github.com/DeepakfromSIT/Spotify-Data-Analysis/blob/main/Spotify.pbix">View Dashboard</a>
+<h2>Dashboard Interaction:</h2><a href="https://github.com/DeepakfromSIT/Spotify-Data-Analysis/blob/main/Spotify.pbix">View Dashboard</a>
 
 # Final Conclusion
 
